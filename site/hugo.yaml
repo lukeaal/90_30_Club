@@ -1,5 +1,0 @@
-baseURL: 'https://example.org/'
-languageCode: 'en-us'
-title: "90/30 Club"
-theme: "PaperMod"
-mainsections: ["Posts", "FAQ"]
