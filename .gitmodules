@@ -1,0 +1,6 @@
+[submodule "9030_site/themes/PaperMod"]
+	path = 9030_site/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "Site/themes/PaperMod"]
+	path = Site/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
