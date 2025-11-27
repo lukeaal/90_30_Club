@@ -6,8 +6,21 @@
     <description>Recent content on 90/30 Club</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Nov 2025 18:20:36 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 20:14:11 -0800</lastBuildDate>
     <atom:link href="https://lukeatkins.me/90_30_Club/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Review of Deep Seek OCR</title>
+      <link>https://lukeatkins.me/90_30_Club/posts/deepseekocr/</link>
+      <pubDate>Wed, 26 Nov 2025 20:14:11 -0800</pubDate>
+      <guid>https://lukeatkins.me/90_30_Club/posts/deepseekocr/</guid>
+      <description>&lt;h2 id=&#34;deepseek-ocr-contexts-optical-compression--reading-group-reflections&#34;&gt;DeepSeek-OCR: Contexts Optical Compression — Reading Group Reflections&lt;/h2&gt;
+&lt;p&gt;I just finished reading &lt;strong&gt;“DeepSeek-OCR: Contexts Optical Compression”&lt;/strong&gt; with my reading group, and I wanted to turn my notes into a simple, clear write-up. Everything here is directly from the bullet points I wrote down after the discussion.&lt;/p&gt;
+&lt;p&gt;Links for reference:&lt;br&gt;
+&lt;a href=&#34;https://huggingface.co/deepseek-ai/DeepSeek-OCR&#34;&gt;DeepSeek-OCR on Hugging Face&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://arxiv.org/pdf/2510.18234&#34;&gt;Paper on arXiv&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;my-own-thoughts&#34;&gt;My Own Thoughts&lt;/h2&gt;
+&lt;p&gt;I noted right away that the paper isn’t really about OCR in the usual sense. It focuses more on &lt;strong&gt;context compression inside the model input&lt;/strong&gt;, which feels like the real contribution. The model uses an encoder to compress image tokens before passing them along, and that direction is what stood out to me more than the OCR framing.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>First Post</title>
       <link>https://lukeatkins.me/90_30_Club/posts/first_post/</link>
